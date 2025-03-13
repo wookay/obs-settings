@@ -34,9 +34,9 @@
     },
     "Pressed": {
       "Background": {
-        "Blue": 11,
-        "Green": 130,
-        "Red": 34
+        "Blue": 14,
+        "Green": 169,
+        "Red": 45
       },
       "BackgroundImageFileName": "",
       "Font": {

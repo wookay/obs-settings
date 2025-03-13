@@ -1,0 +1,3 @@
+Settings
+
+Show keypresses for at least    280 ms
