@@ -160,6 +160,38 @@
       "ChangeOnCaps": false,
       "ShiftText": "$"
     },
+	{
+      "__type": "KeyboardKey",
+      "Id": 10,
+      "Boundaries": [
+        {
+          "X": 229,
+          "Y": 64
+        },
+        {
+          "X": 272,
+          "Y": 64
+        },
+        {
+          "X": 272,
+          "Y": 107
+        },
+        {
+          "X": 229,
+          "Y": 107
+        }
+      ],
+      "KeyCodes": [
+        53
+      ],
+      "Text": "5",
+      "TextPosition": {
+        "X": 250,
+        "Y": 85
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "%"
+    },
     {
       "__type": "KeyboardKey",
       "Id": 16,

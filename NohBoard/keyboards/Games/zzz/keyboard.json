@@ -32,6 +32,36 @@
       "ChangeOnCaps": false,
       "ShiftText": "Esc"
     },
+	{
+      "__type": "KeyboardKey",
+      "Id": 69,
+      "Boundaries": [
+        {
+          "X": 9,
+          "Y": 64
+        },
+        {
+          "X": 52,
+          "Y": 64
+        },
+        {
+          "X": 52,
+          "Y": 107
+        },
+        {
+          "X": 9,
+          "Y": 107
+        }
+      ],
+      "KeyCodes": [ 192 ],
+      "Text": "`",
+      "TextPosition": {
+        "X": 30,
+        "Y": 85
+      },
+      "ChangeOnCaps": false,
+      "ShiftText": "~"
+    },
     {
       "__type": "KeyboardKey",
       "Id": 6,
